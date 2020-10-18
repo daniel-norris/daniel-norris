@@ -1,5 +1,3 @@
-![banner](https://pbs.twimg.com/profile_banners/3291299176/1597913885/1080x360)
-
 ### 👋 Hi, I'm Dan. 
 
 Software Engineer @ [LexisNexis](https://risk.lexisnexis.co.uk/). 
